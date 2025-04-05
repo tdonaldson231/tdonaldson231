@@ -1,5 +1,5 @@
 # Welcome!
-🌟 I'm Todd Donaldson, a Site Reliability / DevOps / Quality Assurance Engineer with a passion for CI/CD and cloud automation.
+🌟 I'm Todd Donaldson, a Site Reliability / DevOps / Quality Assurance Engineer with a passion for CI/CD and Cloud Automation.
 
 ## Skills and Certifications
 - 🌐 **Cloud Experience**: GCP, Azure, and AWS
