@@ -1,9 +1,11 @@
 # Welcome!
-🌟 I'm Todd Donaldson, a Site Reliability / DevOps / Quality Assurance Engineer with a passion for CI/CD and Cloud Automation.
+🌟 I'm Todd Donaldson, a Site Reliability / DevOps / Quality Assurance Engineer passionate about CI/CD and Cloud Automation.  
+I've recently started contributing more actively to GitHub, expanding my skills and pursuing additional certifications.
 
-## Skills and Certifications
-- 🌐 **Cloud Experience**: GCP, Azure, and AWS
-- ⚙️ **DevOps Tools**: Terraform, GitHub Actions, Cloud Build/Deploy, Jenkins
+## 🛠️ Skills and Certifications
+- 🌐 **Cloud Platforms**: GCP, Azure, AWS  
+- ⚙️ **DevOps Tools**: Terraform, GitHub Actions, Cloud Build/Deploy, Jenkins  
+- 🧪 **Test Automation**: C#, RestSharp, NUnit/xUnit, Python, JavaScript  
 - 📜 **Certifications**:
   - [HashiCorp Certified: Terraform Associate](https://www.credly.com/users/todd-donaldson.178d5ac0)
   - [AWS Certified Cloud Practitioner](https://www.credly.com/badges/79232560-4473-4eba-9acf-bb68539ef0c9/public_url)
